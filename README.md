@@ -2,6 +2,8 @@
 
 **A PowerToys Run plugin for enhanced search capabilities using Perplexity AI.**
 
+![demoGIF](https://github.com/user-attachments/assets/8c521d0d-66f3-4537-9e0d-dfbcaea92255)
+
 ## Table of Contents
 
 - [Installation](#installation)
