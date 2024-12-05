@@ -1,0 +1,14 @@
+{
+    "ID": "DIV53C974C2241878F282EA18A7769E4",
+    "ActionKeyword": "///",
+    "IsGlobal": false,
+    "Name": "Perplexity Search",
+    "Author": "Divyanshu",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Divyanshu-singh15",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.PerplexitySearch.dll",
+    "IcoPathDark": "Images\\PerplexitySearch.dark.png",
+    "IcoPathLight": "Images\\PerplexitySearch.light.png",
+    "DynamicLoading": false
+}
