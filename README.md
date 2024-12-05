@@ -1,16 +1,26 @@
 # Community.PowerToys.Run.Plugin.PerplexitySearch
 
-## How to Install
+**A PowerToys Run plugin for enhanced search capabilities using Perplexity AI.**
 
-If you want to install the plugin to get up and running quickly, I suggest downloading the precompiled binaries from the [Release section](https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch/releases/tag/v1.0.0). The installation process goes as follows:
+## Table of Contents
 
-1. go to ('%LOCALAPPDATA%\Microsoft\PowerToys\PowerToys Run\Plugins')
+- [Installation](#installation)
+- [Compiling the Plugin](#compiling-the-plugin)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To install the plugin quickly, download the precompiled binaries from the [Release section](https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch/releases/tag/v1.0.0). Follow these steps:
+
+1. Navigate to `%LOCALAPPDATA%\Microsoft\PowerToys\PowerToys Run\Plugins`.
 2. Unpack the downloaded binaries.
 
 ## Compiling the Plugin
 
-To compile the plugin manually, follow these steps:
+If you prefer to compile the plugin manually, follow these steps:
 
-1. clone this repo to your local machine 'git clone https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch.git'
-2. Open the project in Visual Studio
-3. Build (Make sure to change the configuration to x64/ARM64)
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch.git
