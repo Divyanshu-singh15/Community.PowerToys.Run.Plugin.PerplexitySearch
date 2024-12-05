@@ -26,3 +26,5 @@ If you prefer to compile the plugin manually, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch.git
+2. Open it in Visual Studio
+3. Build (Make sure to change the configuration to x64/ARM64 based on your device)
