@@ -11,6 +11,6 @@ If you want to install the plugin to get up and running quickly, I suggest downl
 
 To compile the plugin manually, follow these steps:
 
-1. clone this repo to your local machine "https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch.git"
+1. clone this repo to your local machine 'git clone https://github.com/Divyanshu-singh15/Community.PowerToys.Run.Plugin.PerplexitySearch.git'
 2. Open the project in Visual Studio
 3. Build (Make sure to change the configuration to x64/ARM64)
